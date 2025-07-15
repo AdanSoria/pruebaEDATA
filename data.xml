@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datos>
+    <servicios>
+        <servicio>
+            <nombre>Diseño Web</nombre>
+            <descripcion>Creación de sitios web modernos y responsivos</descripcion>
+        </servicio>
+        <servicio>
+            <nombre>Desarrollo CSS</nombre>
+            <descripcion>Estilizado avanzado con técnicas modernas</descripcion>
+        </servicio>
+    </servicios>
+</datos>
